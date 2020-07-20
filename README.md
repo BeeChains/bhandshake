@@ -19,7 +19,7 @@ To learn more about blockchain, censor resistant domains, take a look at the fol
 
 If you are interested in one time fee Domains or web page editing services please inquiry below;
 
-You can email me here [BeSpirit247@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
+You can email me here [bthespirit@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
