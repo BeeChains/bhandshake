@@ -1,4 +1,4 @@
-These are blockchain domains, more seizure and censor proof and one fee. A few projects here;  [Bhandshake](https://bhandshake.vercel.app) [AncientManuscripts](https://beechains.github.io/ancientmanuscripts.github.io/) [Bmindful](https://beechains.github.io/bmindful.github.io) big thanks to [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+These are blockchain domains, more seizure and censor proof and one fee. A few projects here;  [Bhandshake](https://bhandshake.vercel.app), [AncientManuscripts](https://beechains.github.io/ancientmanuscripts.github.io/), and [Bmindful](https://beechains.github.io/bmindful.github.io). Big thanks to [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started; We edit everything to our liking and build the web page from the code up. Happy BDay BRO!!! 
 
