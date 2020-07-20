@@ -13,30 +13,30 @@ const Home = () => (
       </h1>
   
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        Get started editing <code>pages/index.js</code>
       </p>
 
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
+        <a href="https://beechains.github.io/home.lux299.github.io/" className="card">
           <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>Find in-depth information about Lux299 Let the Light Shine.</p>
         </a>
 
-        <a href="https://nextjs.org/learn" className="card">
+        <a href="https://beechains.github.io/bhackme.github.io" className="card">
           <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <p>Learn about blockchain domains!</p>
         </a>
 
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="https://namebase.io"
           className="card"
         >
           <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <p>Discover blockchain domains and deploy boilerplate example Next.js projects.</p>
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://protonmail.com" bthespirit@protonmail
           className="card"
         >
           <h3>Deploy &rarr;</h3>
