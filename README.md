@@ -1,6 +1,7 @@
 These are blockchain domains, more seizure and censor proof and one fee. A few projects here;  [Bhandshake](https://bhandshake.vercel.app), [AncientManuscripts](https://beechains.github.io/ancientmanuscripts.github.io/), and [Bmindful](https://beechains.github.io/bmindful.github.io). Big thanks to [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app). [this is the Handshake project and logo pictured below](https://handshake.org)
 
 We call this a bhandshake domain!
+
 (![image](https://user-images.githubusercontent.com/37987346/88022212-e160ac80-cafc-11ea-9132-68dfb543116b.png)(![image](https://user-images.githubusercontent.com/37987346/88021791-1c161500-cafc-11ea-894c-37c3db469b5c.png)
 
 ## Getting Started; We edit everything to our liking and build the web page from the code up. Happy BDay BRO!!! 
