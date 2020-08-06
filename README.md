@@ -23,10 +23,4 @@ To learn more about blockchain, censor resistant domains, take a look at the fol
 
 If you are interested in one time fee Domains or web page editing services please inquiry below;
 
-You can email me here [bthespirit@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+You can email me here [bthespirit777@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
