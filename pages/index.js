@@ -36,7 +36,7 @@ const Home = () => (
         </a>
 
         <a
-          href="https://protonmail.com" bthespirit@protonmail
+          href="https://protonmail.com" bthespirit777@protonmail
           className="card"
         >
           <h3>Deploy &rarr;</h3>
