@@ -23,4 +23,4 @@ To learn more about blockchain, censor resistant domains, take a look at the fol
 
 If you are interested in one time fee Domains or web page editing services please inquiry below;
 
-You can email me here [bthespirit777@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
+# [HireMe.IINC/](http://hireme.iinc/)
